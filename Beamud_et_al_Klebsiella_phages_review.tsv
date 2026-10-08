@@ -1,0 +1,85 @@
+Phage	Accession	Serotype/CLT	Family	Subfamily	Genera	Group	Phage protein	Experimentally	Reference	Reference.doi
+Goliath	ERR4557157	KL2/13, KL14, KL53	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Screen	ERR4557158	KL2/13	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Yoda	ERR4557159	KL2/13	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+myPSH1235	MG972768	KL1,KL2/13,K5	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Manohar et al., 2019	10.3389/fmicb.2019.00574
+IME337	MN176573	KN2 (KL102)	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Gao et al., 2020	10.1007/s00284-019-01849-8
+fHe-Kpn01	MN380459	KL62	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Spruit et al., 2020	10.3390/v12050544
+VLC1	MN794000	KL22/37	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Domingo et al., 2020a	10.3390/ijms21020425
+VLC2	MN794001	KL22/37	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Domingo et al., 2020a	10.3390/ijms21020425
+VLC3	MN794002	KL22/37	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Domingo et al., 2020a	10.3390/ijms21020425
+VLC4	MN794003	KL22/37	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Domingo et al., 2020a	10.3390/ijms21020425
+VLC5	MT197175	KL22/37,KL39	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Domingo et al., 2020b	10.3390/ijms21093160
+KpV2883	MT682065	K1	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Denisenko et al., unpublished	-
+SRD2021	MZ208805	K47	Autographiviridae	Slopekvirinae	Drulisvirus	1	-	-	Hao et al., 2021	10.3390/antibiotics10080894
+KpV71	KU666550	K1	Autographiviridae	Slopekvirinae	Drulisvirus	1	AMQ66478	Yes	Solovieva et al., 2018	10.1016/j.virusres.2017.09.026
+KpV74	KY385423	K2/K13	Autographiviridae	Slopekvirinae	Drulisvirus	1	APZ82768	Yes	Solovieva et al., 2018	10.1016/j.virusres.2017.09.026
+NTUH-K2044-K1-1	AB716666	K1	Autographiviridae	Slopekvirinae	Drulisvirus	1	BAP15746	Yes	Lin et al., 2014	10.1093/infdis/jiu332
+VLC6	MT197176	KL22/37, KL2/13	Autographiviridae	Slopekvirinae	Drulisvirus	1	QJI52623	-	Domingo et al., 2020b	10.3390/ijms21093160
+Dlv622	MT939252	K23	Autographiviridae	Slopekvirinae	Drulisvirus	1	QOI68577	Yes	Gorodnichev et al., 2021	10.3389/fmicb.2021.669618
+KP34	NC_013649	K63	Autographiviridae	Slopekvirinae	Drulisvirus	1	YP_003347651	Yes	Latka et al., 2020	10.1038/s41598-020-77198-5
+ϕKp16	MW394389	KL110	Autographiviridae	Molineuxvirinae	unclassified	2	-	-	Bonilla et al., 2021	10.1093/dnares/dsab013
+TUN1	HG994092	K64	Autographiviridae	Studiervirinae	Przondovirus	3	-	-	Eckstein et al., 2021	10.1186/s12866-021-02251-w
+Henu	MK203841	K1,K2,K57	Autographiviridae	Studiervirinae	Przondovirus	3	-	-	Teng et al., 2019	10.1007/s00705-019-04321-x
+ULIP47	MK380015	KL106	Autographiviridae	Studiervirinae	Przondovirus	3	-	-	Thiry et al., 2019	10.3390/v11050411
+ULIP54	MK380016	KL106	Autographiviridae	Studiervirinae	Przondovirus	3	-	-	Thiry et al., 2019	10.3390/v11050411
+IME205	KU183006	K47-S1	Autographiviridae	Studiervirinae	Przondovirus	3	ALT58497	Yes	Liu et al., 2020	10.3389/fmicb.2020.00218
+IME205	KU183006	K47-S2	Autographiviridae	Studiervirinae	Przondovirus	3	ALT58498	Yes	Liu et al., 2020	10.3389/fmicb.2020.00218
+KpV767	KX712070	K57	Autographiviridae	Studiervirinae	Przondovirus	3	AOZ65519	Yes	Volozhantsev et al., 2020	10.3390/antibiotics9110732
+K5-2	KY389315	K30/K69	Autographiviridae	Studiervirinae	Przondovirus	3	APZ82804	Yes	Hsieh et al., 2017	10.1038/s41598-017-04644-2
+K5-2	KY389315	K5	Autographiviridae	Studiervirinae	Przondovirus	3	APZ82805	Yes	Hsieh et al., 2017	10.1038/s41598-017-04644-2
+K5-4	KY389316	K8	Autographiviridae	Studiervirinae	Przondovirus	3	APZ82847	Yes	Hsieh et al., 2017	10.1038/s41598-017-04644-2
+K5-4	KY389316	K5	Autographiviridae	Studiervirinae	Przondovirus	3	APZ82848	Yes	Hsieh et al., 2017	10.1038/s41598-017-04644-2
+SH-KP152410	MG835568	K64	Autographiviridae	Studiervirinae	Przondovirus	3	AUV61507	Yes	Li et al., 2021	10.3390/antibiotics10020144
+KN1-1	LC413193	KN1 (KL101)	Autographiviridae	Studiervirinae	Przondovirus	3	BBF66844	Yes	Pan et al, 2019	10.1111/1751-7915.13370
+KN3-1	LC413194	KN3 (KL103)	Autographiviridae	Studiervirinae	Przondovirus	3	BBF66867	Yes	Pan et al, 2019	10.1111/1751-7915.13370
+KN3-1	LC413194	K56	Autographiviridae	Studiervirinae	Przondovirus	3	BBF66868	Yes	Pan et al, 2019	10.1111/1751-7915.13370
+KN4‐1	LC413195	KN4 (KL104)	Autographiviridae	Studiervirinae	Przondovirus	3	BBF66888	Yes	Pan et al, 2019	10.1111/1751-7915.13370
+SH-KP152226	MK903728	wzi-K47	Autographiviridae	Studiervirinae	Przondovirus	3	QDF14644	Yes	Wu et al., 2019	10.3389/fmicb.2019.02768
+P510	MT966872	KL64	Autographiviridae	Studiervirinae	Przondovirus	3	QOV05454	Yes	Li et al., 2021	10.3390/antibiotics10020144
+KP32	NC_013647	K3	Autographiviridae	Studiervirinae	Przondovirus	3	YP_003347555	Yes	Majkowska-Skrobek et al., 2018	10.3390/v8120324
+KP32	NC_013647	K21	Autographiviridae	Studiervirinae	Przondovirus	3	YP_003347556	Yes	Majkowska-Skrobek et al., 2018	10.3390/v8120324
+Seu621	MT939253	K23	Myoviridae	Vequintavirinae	Mydovirus	5	-	-	Gorodnichev et al., 2021	10.3389/fmicb.2021.669618
+KpS8	MT178275	K23	Myoviridae	Vequintavirinae	Mydovirus	5	QIW88225	Yes	Gorodnichev et al., 2021	10.3389/fmicb.2021.669618
+KLPN1	KR262148	K2	Drexlerviridae	-	Webervirus	7	-	-	Hoyles et al., 2015	10.7717/peerj.1061
+GH-K3	MH844531	K7	Drexlerviridae	-	Webervirus	7	-	-	Gu et al., 2012	10.1371/journal.pone.0031698
+vB_KpnS_kp13	MK170446	K24	Drexlerviridae	-	Webervirus	7	-	-	Horvath et al., 2020	10.1038/s41598-020-62691-8
+B1	MW672037	KL2	Drexlerviridae	-	Webervirus	7	QTP95996	Yes	Zsombor Pertics et al., 2021	10.1155/2020/5463801
+RAD2	MW655991	K2	Drexlerviridae	-	Webervirus	7	QUU29414	Yes	Dunstan et al., 2021	10.1128/Spectrum.01023-21
+KP36	NC_029099	K63	Drexlerviridae	-	Webervirus	7	YP_009226010	Yes	Majkowska-Skrobek et al., 2016	10.3390/v8120324
+KpV79	MF663761	K57	Myoviridae	-	Jedunavirus	12	ATI16495	Yes	Volozhantsev et al., 2020	10.3390/antibiotics9110732
+ϕKp27	MW394388	KL30	Schitoviridae	-	-	14	-	-	Bonilla et al., 2021	10.1093/dnares/dsab013
+K64-1	AB897757	KN4	Myoviridae	-	Alcyoneusvirus	15	BAQ02835	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K21	Myoviridae	-	Alcyoneusvirus	15	BAQ02836	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K11	Myoviridae	-	Alcyoneusvirus	15	BAQ02837	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	KN5	Myoviridae	-	Alcyoneusvirus	15	BAQ02838	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K25	Myoviridae	-	Alcyoneusvirus	15	BAQ02839	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K35	Myoviridae	-	Alcyoneusvirus	15	BAQ02840	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K1	Myoviridae	-	Alcyoneusvirus	15	BAQ02841	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K64	Myoviridae	-	Alcyoneusvirus	15	BAQ02842	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	K30/K69	Myoviridae	-	Alcyoneusvirus	15	BAQ02843	Yes	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	NA	Myoviridae	-	Alcyoneusvirus	15	BAW85700	-	Pan et al., 2017	10.1128/JVI.02457-16 
+K64-1	AB897757	NA	Myoviridae	-	Alcyoneusvirus	15	BAW85701	-	Pan et al., 2017	10.1128/JVI.02457-16 
+Flushed	ERR4557147	KL28	Myoviridae	Tevenvirinae	Jiaodavirus	16	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Wobble	ERR4557155	KL28	Myoviridae	Tevenvirinae		16	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Eggy	ERR4557162	KL3	Siphoviridae	-		17	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Pokey	ERR4557165	KL3	Siphoviridae	-	Nonagvirus	17	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Raw	ERR4557168	KL3	Siphoviridae	-	Nonagvirus	17	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+KaID	ERR4557151	KL14	Myoviridae	Tevenvirinae	Slopekvirus	18	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Mild	ERR4557153	KL14	Myoviridae	Tevenvirinae	Slopekvirus	18	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+MeTiny	ERR4557150	KL74	Myoviridae	Tevenvirinae	Slopekvirus	19	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+SoFaint	ERR4557154	KL38	Myoviridae	Tevenvirinae	Slopekvirus	19	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Anoxic	ERR4557160	KL3	Demerecviridae	-	Sugarlandvirus	20	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Jiji	ERR4557163	KL3	Demerecviridae	-	Sugarlandvirus	20	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Ponyo	ERR4557164	KL3	Demerecviridae	-	Sugarlandvirus	20	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Totoro	ERR4557167	KL3	Demerecviridae	-	Sugarlandvirus	20	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Storm	ERR4557169	KL3	Demerecviridae	-	Sugarlandvirus	20	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+LilBean	ERR4557170	KL35	Ackermannviridae	-	Taipeivirus	21	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Westerburg	ERR4557173	KL2/13, KL35	Ackermannviridae	-	Taipeivirus	21	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Bilbo	ERR4557175	KL2/13, KL35	Ackermannviridae	-	Taipeivirus	21	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+0507-KN2-1	AB797215	KN2 (KL102)	Ackermannviridae	-	Taipeivirus	21	BAN78446	Yes	Hsu et al., 2013	10.1038/s41598-020-62691-8
+ULIP33	MK380014	KL1	Autographiviridae	Molineuxvirinae	unclassified	22	-	-	Thiry et al., 2019	10.3390/v11050411
+Eowyn	LR881104	KL16, KL110	Myoviridae	Tempevirinae	unclassified	23	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+Samwise	ERR4557174	KL3	Drexlerviridae	Tunavirinae	unclassified	24	-	-	Townsend et al., 2021	10.1089/phage.2020.0046
+ϕKp34	MW394390	KL38	Myoviridae	Vequintavirinae	unclassified	25	-	-	Bonilla et al., 2021	10.1093/dnares/dsab013
+ϕKp24	MW394391	KL64,KL46,KL61	unclassified	unclassified	unclassified	26	-	-	Bonilla et al., 2021	10.1093/dnares/dsab013

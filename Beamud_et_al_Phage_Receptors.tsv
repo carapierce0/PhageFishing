@@ -1,0 +1,49 @@
+Protein acc.	Protein name	Gene name	Gene synonyms
+WP_002227864.1	attachment invasion locus protein	ail	-
+NP_845653.1	hypothetical protein	BA_3367	-
+NP_308206.1	outer membrane protein assembly factor YaeT	bamA	yaeT,yzzN,yzzY
+NP_308206.1	outer membrane protein assembly factor YaeT	bamA	yaeT,yzzN,yzzY
+NP_418401.1	cobalamin/cobinamide outer membrane transporter	btuB	bfe,cer,dcrC
+NP_463009.1	TonB-dependent vitamin B12 receptor	btuB	bfe,cer,dcrC
+NP_709770.2	vitamin B12/cobalamin outer membrane transporter	btuB	bfe,cer,dcrC
+NP_416846.2	long-chain fatty acid outer membrane channel/bacteriophage T2 receptor	fadL	ttr
+NP_311254.2	long-chain fatty acid outer membrane transporter	fadL	ttr
+NP_415116.1	ferric enterobactin outer membrane transporter	fepA	fep,feuB
+NP_459577.1	outer membrane receptor protein	fepA	fep,feuB
+NP_414692.1	ferrichrome outer membrane transporter/phage receptor	fhuA	tonA
+NP_459196.1	ferrichrome porin FhuA	fhuA	tonA
+NP_460912.1	flagellin	fliC	-
+NP_460927.1	flagellar hook-length control protein FliK	fliK	-
+NP_461698.1	flagellin	fljB	-
+NP_418460.1	maltose outer membrane channel/phage lambda receptor protein	lamB	malB
+WP_001883247.1	-	mshA	-
+NP_415100.1	bacteriophage N4 receptor, outer membrane protein	nfrA	nfrA1,nfrA2,ywcG,ycnD
+NP_415477.1	outer membrane porin A	ompA	con,tolG,tut
+NP_706879.2	outer membrane protein OmpA	ompA	con,tolG,tut
+NP_460044.1	porin OmpA	ompA	con,tolG,tut
+NP_311131.1	outer membrane porin protein C	ompC	meoA,par
+NP_416719.1	outer membrane porin C	ompC	meoA,par
+NP_708110.1	porin	ompC	meoA,par
+NP_461210.1	porin OmpC	ompC	meoA,par
+NP_415449.1	outer membrane porin F	ompF	ompF,cmlB,coa,cry,tolF
+WP_011816043.1	outer membrane porin F protein	ompF	ompF,cmlB,coa,cry,tolF
+WP_002211302.1	porin	ompF	ompF,cmlB,coa,cry,tolF
+NP_230282.1	outer membrane protein OmpU	ompU	-
+NP_233253.1	outer membrane protein W	ompW	-
+NP_414776.1	outer membrane porin PhoE	phoE	phoE,ompE,yhfR
+NP_267826.1	phage infection protein	pip	-
+NP_814600.1	phage infection protein	pip	-
+WP_015064319.1	pertactin	prn	-
+WP_000820909.1	type IV protein secretion/mating pair formation complex protein	pSARA30_16	-
+NP_843397.1	S-layer protein Sap	sap	
+NP_415267.1	Tol-Pal system protein TolA	TolA	cim,excC,lky
+NP_231471.1	TolA protein	TolA	cim,excC,lky
+NP_232066.1	outer membrane channel protein	TolC	colE1,mtcB,mukA,refI,toc,weeA
+NP_417507.2	outer membrane channel TolC	TolC	colE1,mtcB,mukA,refI,toc,weeA
+NP_415768.1	Ton complex subunit TonB	tonB	exbA
+NP_414945.1	nucleoside-specific channel-forming protein Tsx	tsx	Tsx,nupA,b0411,JW0401
+WP_013856162.1	membrane protein	VAA_RS04305	-
+WP_005370112.1	-	VAS14_16696	-
+NP_267038.1	hypothetical protein	yjaE	rsd
+NP_415968.1	putative TonB-dependent outer membrane receptor	yncD	b1451,JW1446
+NP_391064.1	ESX secretion system; calcium-dependent phage SPP1 attachment site	yueB	-
